@@ -1,0 +1,56 @@
+body {
+     //background-image: url(../images/gallery-big-6.jpg);
+     background-image: url(../images/bg.gif);
+// -webkit-background-size: cover;
+  //  background-size: cover;   
+}
+
+/*body {font: 14px/25px Arial, Helvetica, sans-serif;
+      color:#292929;min-width:960px;
+      background-image: url(../images/gallery-big-6.jpg) center 0 repeat;
+      border-top:#292929 6px solid;
+}*/
+form,
+input,
+button {
+    margin: 10px;
+}
+#login {
+   // background-color: rgba(0, 0, 0, 0.5);
+   background-color: white;
+    margin-top: 100px;
+    border-radius: 10px;
+}
+#nebaris {
+    background-color: #000;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    font-family: helvetica;
+    margin-top: 300px;
+}
+#nebaris a {
+    color: rgb(178, 255, 178);
+    border: 0;
+}
+#nebaris a:hover {
+    color: white;
+    background-color: black;
+}
+.ConsultarInfor{
+    
+    background-color: black;
+    text-align: center;
+    margin: 10 auto;
+    border-radius: 10px;
+}
+.ConsultarInfor2{
+
+    text-align: center;
+    margin: 10 auto;
+    border-radius: 10px;
+}
+.col-md-4{
+    
+     text-align: center;
+}
